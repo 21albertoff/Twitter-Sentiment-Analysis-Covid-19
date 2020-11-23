@@ -3,3 +3,8 @@ This work begins by collecting a dataset of tweets with twitter-streaming API re
 <h2>twitter data about covid is extracted between 2020/10/16 and 2020/11/06</h2>
 
 <img src="date_covid.png" >
+
+ <h2>the results of some algorithms used:</h2>
+ 
+ <img src="algorithm.png" >
+ 
